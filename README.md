@@ -725,3 +725,4 @@ Feel free for contributing, support, fork, likes, etc. Any feedback is greatly a
 
 Open source. Feel free to use, modify, and distribute.
 "# newcode" 
+"# clipcode" 
